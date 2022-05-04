@@ -104,6 +104,7 @@ const Hotel = () => {
               </div>
             ))}
           </div>
+          
           <div className="hotelDetails">
             <div className="hotelDetailsTexts">
               <h1 className="hotelTitle">Stay in the heart of City</h1>
@@ -121,6 +122,7 @@ const Hotel = () => {
                 airport shuttle service.
               </p>
             </div>
+
             <div className="hotelDetailsPrice">
               <h1>Perfect for a 9-night stay!</h1>
               <span>
