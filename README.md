@@ -1,8 +1,8 @@
 #this is a hotel booking app frontend design.
 
-#here users can come here and book any hotels of choice and rooms
+#where users can come here to book any hotels of choice and rooms
 
-#this is just the UI designs as said, the full app project can be find in the mern app repo which includes
+#this is just the UI design as said, the full app project can be find in the mern dev repo which includes
 
 #the admin ui intergrated with the api developed. 
 
